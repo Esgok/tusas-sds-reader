@@ -1,10 +1,12 @@
 <div align="center">
 
-# SDS Okuyucu
+<img src="assets/sds.png" alt="SDS Okuyucu: Güvenlik Bilgi Formlarını saniyeler içinde yapılandırın. %99,5 veri çıkarım doğruluğu, form başına yaklaşık 22 saniye, 205 formun 204'ü başarıyla işlendi, Türkçe, İngilizce ve Almanca destek." width="100%">
+
+# TUSAŞ - Güvenlik Bilgi Formu (SDS) Okuyucu
 
 ### Güvenlik Bilgi Formlarının yerel yapay zekâ ile hızlı, güvenilir ve uzman denetimine açık analizi
 
-*Türk Havacılık ve Uzay Sanayii A.Ş. (TUSAŞ) tarafından [PitGrowth](https://pitgrowth.com/wishlist/c355ba6a-c94d-46fe-800a-fdbc086b0700) platformunda yayımlanan **“Yapay Zekâ ile SDS Okuma ve Kimyasal Karar Destek Sistemi”** çağrısı kapsamında geliştirilmiştir.*
+*Türk Havacılık ve Uzay Sanayii A.Ş. (TUSAŞ) tarafından [PitGrowth](https://pitgrowth.com/wishlist/c355ba6a-c94d-46fe-800a-fdbc086b0700) platformunda yayımlanan **“Yapay Zekâ ile SDS Okuma ve Kimyasal Karar Destek Sistemi”** çağrısı kapsamında [Appumia](https://www.appumia.com/) tarafından geliştirilmiştir.*
 
 </div>
 
@@ -65,6 +67,26 @@ SDS Okuyucu, çağrının hedeflediği **kimyasal karar destek sisteminin** teme
 - **Uçtan uca uzman iş akışı:** Onaya düşen alanların ve belgelerin tek bir ekranda incelenip karara bağlanması.
 
 Temeli kurduk ve ölçtük. Bu altyapıyı TUSAŞ'ın ihtiyaçlarına göre ileriye taşımaya hazırız.
+
+---
+
+## Appumia hakkında
+
+**"Verinizi dışarı çıkarmadan yapay zekâyı işinize koyun."**
+
+[Appumia](https://www.appumia.com/), İstanbul merkezli bir kurumsal üretken yapay zekâ şirketidir. Hassas veriyle çalışan kurumlar için yapay zekâ çözümleri geliştirir:
+
+- **Yerel büyük dil modeli kurulumları:** Kurumun kendi sunucularında ya da özel bulutunda çalışan modeller.
+- **Bulut tabanlı model entegrasyonları:** Veri maskeleme ve maliyet takibiyle birlikte.
+- **Sohbet botları ve asistanlar:** Web siteleri, WhatsApp ve kurum içi sistemler için.
+- **Kurumsal yazılım:** Özel web ve panel uygulamaları, ERP/CRM entegrasyonları ve süreç otomasyonu.
+
+SDS Okuyucu bu yaklaşımın somut bir örneğidir. Yapay zekâ kurum içinde çalışır ve belgeler kurumun kendi altyapısında kalır.
+
+### İletişim
+
+📧 **[info@appumia.com](mailto:info@appumia.com)**<br>
+🌐 **[www.appumia.com](https://www.appumia.com/)**
 
 ---
 
